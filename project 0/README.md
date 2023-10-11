@@ -48,4 +48,8 @@
 
 ### Выводы:
 
+<<<<<<< HEAD
 :arrow_up:[к оглавлению] (https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Оглавление)
+=======
+:arrow_up:[к оглавлению] (https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Оглавление)
+>>>>>>> c0b1b4e17b8a9a4c5bd9d6d528c00398de8b4c79
