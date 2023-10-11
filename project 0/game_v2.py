@@ -11,10 +11,17 @@ def random_predict(number:int=1) -> int:
     """
 
     count = 0
-
+    predict_number = np.random.randint(1, 101) # предполагаемое число
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101) # предполагаемое число
+        while predict_number > number:
+            if predict_number >number:
+                predict_number = predict_number - 10
+        while predict_number < number:
+            if predict_number <number:
+                predict_number = predict_number +5
+        predict_number = predict_number-1
+        
         if number == predict_number:
             break # выход из цикла, если угадали
     return(count)
