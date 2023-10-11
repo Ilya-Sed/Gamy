@@ -1,5 +1,4 @@
 import numpy as np
-
 def random_predict(number:int=1) -> int:
     """Рандомно угадываем число
 
@@ -9,16 +8,17 @@ def random_predict(number:int=1) -> int:
     Returns:
         int: Число попыток
     """
-
     count = 0
     predict_number = np.random.randint(1, 101) # предполагаемое число
     while True:
         count += 1
         while predict_number > number:
             if predict_number >number:
+                count +=1 #На каждом цикле while добавляем попытку, чтобы было честно
                 predict_number = predict_number - 10
         while predict_number < number:
             if predict_number <number:
+                count +=1 #Если не добавлять даные попытки,то число попыток сократиться
                 predict_number = predict_number +5
         predict_number = predict_number-1
         
