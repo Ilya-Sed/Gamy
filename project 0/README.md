@@ -16,7 +16,7 @@
 ## Описание проекта
 Угадать заданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md#Оглавление)
 
 
 ## Какой кейс решаем?
@@ -36,21 +36,21 @@
 ### Краткая информация о данных:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md#Оглавление)
 
 
 ### Этапы работы над проектом:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md#Оглавление)
 
 
 ### Результаты:
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md#Оглавление)
 
 
 ### Выводы:
 
-:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md#Оглавление)
