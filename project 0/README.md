@@ -1,6 +1,6 @@
 # Проект 0. Угадай число
 
-## Оглавление
+## Оглавление 1
 [1. Описание проекта](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Описание-проекта)
 [2. Какой кейс решаем](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Какой-кейс-решаем)
 [3. Краткая информация о данных](https://github.com/Ilya-Sed/Gamy/blob/main/project%200/README.md #Краткая-информация-о-данных)
