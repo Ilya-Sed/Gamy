@@ -13,13 +13,11 @@ def random_predict(number:int=1) -> int:
     while True:
         count += 1
         while predict_number > number:
-            if predict_number >number:
-                count +=1 #На каждом цикле while добавляем попытку, чтобы было честно
-                predict_number = predict_number - 10
+            count +=1 #На каждом цикле while добавляем попытку, чтобы было честно
+            predict_number = predict_number - 10
         while predict_number < number:
-            if predict_number <number:
-                count +=1 #Если не добавлять даные попытки,то число попыток сократиться
-                predict_number = predict_number +5
+            count +=1 #Если не добавлять даные попытки,то число попыток сократиться
+            predict_number = predict_number +5
         predict_number = predict_number-1
         
         if number == predict_number:
